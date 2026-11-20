@@ -1,0 +1,6 @@
+[
+  {"name": "Single Helper", "disp_user_id": "000000001", "cards": [5666, 5873, 5505]},
+  {"name": "Double Helper", "disp_user_id": "000000002", "cards": [5988, 5817, 5618]},
+  {"name": "Long Helper",   "disp_user_id": "000000003", "cards": [5558, 5708, 5405]},
+  {"name": "Mix Helper",    "disp_user_id": "000000004", "cards": [5999, 6086, 5921]}
+]

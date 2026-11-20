@@ -1,0 +1,329 @@
+{
+ "list": [
+  {
+   "name": "M_card",
+   "key": "DhvYdHQbW5kIjxWumcESbg==",
+   "iv": "rtmK9kSucZtPsK6NRAqoCA=="
+  },
+  {
+   "name": "M_character",
+   "key": "tx0AiIi8Yf3f5dm7Aus-Yg==",
+   "iv": "zRRWMwe-0WYuKV-n9Za_eA=="
+  },
+  {
+   "name": "M_user_level",
+   "key": "DYf2ucECaz_W3CnuFZh_Lg==",
+   "iv": "uR5qGjYFSehFKVlIfwv8jA=="
+  },
+  {
+   "name": "M_rarity",
+   "key": "QgEiL__w4SON3mH4A0i3kQ==",
+   "iv": "R4qEMhRg6u8SOlXsObFztw=="
+  },
+  {
+   "name": "M_skill_level_up",
+   "key": "I0f9jqa5Ip1ejcjcdllpTg==",
+   "iv": "tsVeJ29JE23ZQf1Cql8zrg=="
+  },
+  {
+   "name": "M_attr",
+   "key": "64x7Hic-2mhKfPk_FF0aKw==",
+   "iv": "ibEDkG630d9GrKqDOigVtg=="
+  },
+  {
+   "name": "M_card_type",
+   "key": "nPZpWVyRa1_wUVzCG6N0bg==",
+   "iv": "ZM9PBGT3DtDpTWnTDJSKoQ=="
+  },
+  {
+   "name": "M_card_param_special",
+   "key": "hTnA67gDepQj5Vs0L777cQ==",
+   "iv": "VMX7tv12PwAir05bnLioiw=="
+  },
+  {
+   "name": "M_card_fusion",
+   "key": "kM3FpUo0KbzEwOdc9a37NQ==",
+   "iv": "lP_rRD2w-Q9SW38ygV2Ztg=="
+  },
+  {
+   "name": "M_card_fusion_special",
+   "key": "Rh5IzZa_tgPzMG6ttmuBIg==",
+   "iv": "220Z-jF92pqsDRLWEfV05Q=="
+  },
+  {
+   "name": "M_evolution_material",
+   "key": "pQc9oYwzTEu_Ra1O78Ozeg==",
+   "iv": "AHDb4-0s282sWYPD8cWt-w=="
+  },
+  {
+   "name": "M_card_evolution_recipe",
+   "key": "CX8FP1447LJd2G4TaLmcqw==",
+   "iv": "uROjHBVcAHzZ7hx7F5zaIQ=="
+  },
+  {
+   "name": "M_card_evolution_recipe_detail",
+   "key": "7GmsJUnHaLa0takbGmJXxQ==",
+   "iv": "Wt16jaTbXm1DRNXu5Jwlxg=="
+  },
+  {
+   "name": "M_card_evolution",
+   "key": "uwDteV03-ovPLCvr4VpHHA==",
+   "iv": "sz0ilVxDZuztxaa11cQ2eQ=="
+  },
+  {
+   "name": "M_skill_effect",
+   "key": "VJ2AoCIgUSgVtAEX1EL_gQ==",
+   "iv": "FR8zJGQzIBBSEm9vXOb4Cw=="
+  },
+  {
+   "name": "M_skill",
+   "key": "j9Vlrqw6HGbyq5rS2vlAgA==",
+   "iv": "5cS1mVHY5efBwI4XldEJIg=="
+  },
+  {
+   "name": "M_skill_param",
+   "key": "bh6DRLCNBDHTn4ZZvlfo4A==",
+   "iv": "rvwgOG3AvNoIYb-VtyznAw=="
+  },
+  {
+   "name": "M_leader_skill",
+   "key": "zT8hyxj4RXd9LOgC-Yawfw==",
+   "iv": "Xv1uyDMW7N0gS227VfoTwQ=="
+  },
+  {
+   "name": "M_leader_skill_param",
+   "key": "LptOM9i8YQtWAlwS2hz_wQ==",
+   "iv": "Q5eCH4o0RhyC3n9uR7O7Nw=="
+  },
+  {
+   "name": "M_difficulty",
+   "key": "r-glzuZOUo8XI9hUFv5jkQ==",
+   "iv": "yvwXsNq1cEwkc85qq8KvPw=="
+  },
+  {
+   "name": "M_music",
+   "key": "g8q-gOrkso5oHaPDYYOyWw==",
+   "iv": "8poyVFBPu7yExrrJeiOl7A=="
+  },
+  {
+   "name": "M_stage",
+   "key": "HkqCy0D3WVe4WrhAZuqmpQ==",
+   "iv": "dXz2C51ryp6OuWBmcBVgKw=="
+  },
+  {
+   "name": "M_mission_type",
+   "key": "YLx0XrkW2jGFcKD105pQHQ==",
+   "iv": "FeLXa6qDLsaFjJIt3TqYRA=="
+  },
+  {
+   "name": "M_mission_rank",
+   "key": "W_neUAvHOBaaNCk3HmbJxQ==",
+   "iv": "NdWLrM8Bp1wnKjnNagluOQ=="
+  },
+  {
+   "name": "M_stage_mission",
+   "key": "swsVxpg4PX6tqSf5pPEiUQ==",
+   "iv": "IFzlWKsga59aZUTk1txU4w=="
+  },
+  {
+   "name": "M_music_mission",
+   "key": "6wqGGyoj5CSOG-x_NB3LUw==",
+   "iv": "Ry-QdWtaEryJTSrAJXV6Fw=="
+  },
+  {
+   "name": "M_music_mission_reward",
+   "key": "CtWVGZpqSY_mUKcHQw9-3A==",
+   "iv": "fwseRZOR-oaJR2yGSHqZ9A=="
+  },
+  {
+   "name": "M_stage_unlock_condition",
+   "key": "2G7pMHWiYufqMdr7n8a6GQ==",
+   "iv": "WNG-YaZnZ6AaSV-_wkevIQ=="
+  },
+  {
+   "name": "M_trophy_mission_type",
+   "key": "dn23XcNggz8htWLitd1MLQ==",
+   "iv": "BCxFRoMP6C1aQeVMSqRH6Q=="
+  },
+  {
+   "name": "M_trophy_mission",
+   "key": "eENYPlwSfTzkHZxuFxy46Q==",
+   "iv": "pTG_egxNIBQ3qFdcG9Km9w=="
+  },
+  {
+   "name": "M_trophy_mission_reward",
+   "key": "yNnG881isRtsEpYH1KjYrA==",
+   "iv": "gErd2FeXrM91jsymFIlSXg=="
+  },
+  {
+   "name": "M_episode",
+   "key": "R_yp7AZGGhfup2rJx8-0fw==",
+   "iv": "KS7nklxvEH7qaYOrCf_a5A=="
+  },
+  {
+   "name": "M_episode_reward",
+   "key": "oorp7C9j_TwKzW21T2jINw==",
+   "iv": "G2um6M_U1ejCNF5zIbLPzw=="
+  },
+  {
+   "name": "M_item",
+   "key": "pbpDgpYPMpw7eSjXvWaGeg==",
+   "iv": "KAvP7glx24Tz3bD-RogQbg=="
+  },
+  {
+   "name": "M_const",
+   "key": "ZOqiRTTw7y0g1DVp5Rh_gw==",
+   "iv": "G0-p01MKWVIT7R0GWf0gNw=="
+  },
+  {
+   "name": "M_skill_type",
+   "key": "jGjk3lvQSIVh1Rj61tjyEg==",
+   "iv": "schAzMKOSArG-yzRrr0B7w=="
+  },
+  {
+   "name": "M_game_guide",
+   "key": "jRXv51gru761DdUPr3xW0Q==",
+   "iv": "uz7ij0jraWenNY1y-61GvQ=="
+  },
+  {
+   "name": "M_event_help",
+   "key": "-63T8zrFLpcWGkEXuYb8uQ==",
+   "iv": "nDJ8BawN-QLS_Bbly1QvRQ=="
+  },
+  {
+   "name": "M_item_category",
+   "key": "mMPDIT3Sxs6SWHsp2wKZZQ==",
+   "iv": "rC1-W9Xv2uvJRjpm8pOjmQ=="
+  },
+  {
+   "name": "M_item_param",
+   "key": "2l4lXOFprEddcsZeO1Ybiw==",
+   "iv": "etVNv-_q99MsXL1yRcwUwQ=="
+  },
+  {
+   "name": "M_skill_level_up_specific_card",
+   "key": "BA259IDAGazQovUqaa-I2g==",
+   "iv": "cSao1Lrty5Y1-Fq8OiYJtw=="
+  },
+  {
+   "name": "M_card_group",
+   "key": "C6kDTlTn9UBuTyAdWQ71uw==",
+   "iv": "8tdGIe6Dyb7LyBj5FRwcdw=="
+  },
+  {
+   "name": "M_music_series",
+   "key": "x85hG85V-z_QABnJmtzzBg==",
+   "iv": "ngbs5ppWvKprOm0vjdYzDw=="
+  },
+  {
+   "name": "M_award",
+   "key": "oLnmP31S8KKVxJu-tBoHXA==",
+   "iv": "0IQGrYDQ7DjW60ifl9M0uA=="
+  },
+  {
+   "name": "M_grade",
+   "key": "JdDFU9lB79bQlGCtuqnrRQ==",
+   "iv": "SUOhsgSvL9kCrIejzx9-4Q=="
+  },
+  {
+   "name": "M_character_assist_special",
+   "key": "xDWakHvv5hspWdINlMJPYw==",
+   "iv": "4SX_XSzyqDuGMrJwYClCbg=="
+  },
+  {
+   "name": "M_assist_type",
+   "key": "G2-fyamuQotk0k9e_YU2DA==",
+   "iv": "A-P7oaJH37lVdCwTDY_evg=="
+  },
+  {
+   "name": "M_rarity_assist_param",
+   "key": "DTb4QBP8vVBLJRQlO8IFBA==",
+   "iv": "MIT8rqrVUgPDV3ENr6Dthw=="
+  },
+  {
+   "name": "M_card_assist_param",
+   "key": "zEz71JQrFuX0rDGmqLgTgw==",
+   "iv": "O3xnIoFJU56KR63cEUg2OA=="
+  },
+  {
+   "name": "M_music_model",
+   "key": "5XUN30LqsR2cQmPUR_TPPQ==",
+   "iv": "ze5Jp3BiE2iee_YQqC708g=="
+  },
+  {
+   "name": "M_music_maker",
+   "key": "M_G5NkCLgHmjeNTQ3ZZfxw==",
+   "iv": "ppNquvdjdxtHsipt6GEmKg=="
+  },
+  {
+   "name": "M_card_status",
+   "key": "tGnspNojVs1KR_xOq_i_ww==",
+   "iv": "QHJC20cBLz7hgQGokf74sg=="
+  },
+  {
+   "name": "M_card_level",
+   "key": "DnlVUkA5tHzkPlJClfLQ7w==",
+   "iv": "M6lUz9-Up2y7tB-EBlF0-A=="
+  },
+  {
+   "name": "M_card_price",
+   "key": "rweny4wPj4KXupBd0Fo4YA==",
+   "iv": "yMeh5mw1Sgy1TilBOtpMXg=="
+  },
+  {
+   "name": "M_card_level_type",
+   "key": "lhYOtfjvZrEzIJYPaXGLtA==",
+   "iv": "9KtQgAt76_TT7L37sgLP0g=="
+  },
+  {
+   "name": "M_card_material_exp_type",
+   "key": "NWxNPZ7DPJmlyxCAkI4Fug==",
+   "iv": "6nMK-ZtC_3gqjpC30utlng=="
+  },
+  {
+   "name": "M_card_price_type",
+   "key": "7cdX6a1qNxwdFkvxWPVYUg==",
+   "iv": "FA8GNdUdMTo5JjgqXNjSrw=="
+  },
+  {
+   "name": "M_card_grow_ratio",
+   "key": "IwTgfhUJ9divvc67Ju0huw==",
+   "iv": "z_Ct6RAqeHUC2Rn-jZnLyg=="
+  },
+  {
+   "name": "M_card_grow_type",
+   "key": "wrMhq43lEONLdZMd6yQ8-A==",
+   "iv": "x0XMOLVbz2IcDOpIdLYXZg=="
+  },
+  {
+   "name": "M_card_material_exp",
+   "key": "dK-NLhcw5KxTQ88Wmv4j1Q==",
+   "iv": "bhKZmGdb-jw31nBKbLLBwQ=="
+  },
+  {
+   "name": "M_medley_help",
+   "key": "xcDs-jkQDy33UuQuyfIMSg==",
+   "iv": "GLwUM5f8DTLYH0Qd-Ceb2Q=="
+  },
+  {
+   "name": "M_medley_clear_rank",
+   "key": "I0BjssSi7YEUEjaKiIaELA==",
+   "iv": "LoOy0iujCrHGuaw1g45chQ=="
+  },
+  {
+   "name": "M_medal_bonus_detail",
+   "key": "la8gEsSU81WziNgMhzxsAg==",
+   "iv": "-Jvn4CP2w4wNmshSlk9wMw=="
+  },
+  {
+   "name": "M_card_decoration",
+   "key": "aHbK9A7w06o71nNMmznQ-g==",
+   "iv": "obUqdfs4RKo_xoI9pdwrMw=="
+  },
+  {
+   "name": "M_episode_event_challenge",
+   "key": "9TmEdkQZX7exZ034n5Fdfw==",
+   "iv": "1kyin_POKsWFfuCZaq65qA=="
+  }
+ ]
+}

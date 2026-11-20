@@ -498,8 +498,8 @@ public static class OfflineServer
         return buf;
     }
 
-    // HTTPS listener for the game's first request of every launch (https://pcgame.7rhythm.jp/...). The redirect
-    // sends port 443 traffic here; it uses a self-signed certificate (data\static\tls.pfx) and then answers
+    // HTTPS listener for the game's first request of every launch (https://pcgame.7rhythm.jp/...), on the local
+    // pcgame addresses (port 443); it uses a self-signed certificate (data\static\tls.pfx) and then answers
     // exactly like the plain HTTP API.
     static void TlsLoop(TcpListener l, System.Security.Cryptography.X509Certificates.X509Certificate2 cert)
     {
@@ -741,7 +741,7 @@ public static class OfflineServer
             if (!known && EmptyReply(ep, p, data)) known = true;
             if (ep == "get/connection")
             {
-                // point the game's API straight at this server (no DNS lookup or redirect needed for the API)
+                // point the game's API straight at this server (no DNS lookup needed for the API)
                 Dictionary<string, object> cd = Get(data, "ConnectionData");
                 if (cd != null) cd["url"] = "http://127.0.0.1:" + httpPortUsed + "/7r/";
             }
